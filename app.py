@@ -6,7 +6,7 @@ import time
 st.set_page_config(page_title="Digital Clock", layout="centered")
 
 # Title
-st.title("🕒 Digital Clock")
+st.title("🕒 Digital Clock 2.0")
 
 # Hide Streamlit's default menu and footer
 hide_st_style = """
